@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## MERN Stack CRUD off New York Times Articles
 
 
@@ -30,3 +31,7 @@ Your app should now be running on <http://localhost:3000>. The Express server sh
 ## Deployment (Heroku)
 
 To deploy, simply add and commit your changes, and push to Heroku. As is, the NPM scripts should take care of the rest.
+=======
+# NYT-Reader
+MERN Stack CRUD off New York Times Articles
+>>>>>>> 9a2d3075e09af1b619ae199c4b08dae024fa95fc
