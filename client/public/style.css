@@ -1,0 +1,77 @@
+
+a{
+    text-decoration: none;
+    color: #000;    
+}
+
+h1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 60px;
+    color: #fff;
+}
+
+h2, h3{
+    font-family: 'Libre Franklin', sans-serif;
+    color: #000;    
+}
+
+input{
+    text-align: center;
+}
+
+nav{
+    background-color: #feeefe;
+    color: #000;
+}
+
+.badge{
+    background-color: hotpink;
+    color: #000;
+    cursor: pointer;
+    border: 1px solid #aaaaaa;
+}
+
+.btn{
+    font-weight: 700;
+    font-size: 20px;
+    background-color: #feeefe;
+    color: #000;
+    cursor: pointer;
+    border: 1px solid #aaaaaa;
+}
+
+.home-jumbo{
+    background-image: url("./images/paper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 40%; 
+}
+
+.saved-jumbo{
+    background-color: hotpink;
+    color: #000;
+}
+
+.saved-title{
+    text-align: center;
+}
+
+/* Center Placeholders */
+.center-placeholder::-webkit-input-placeholder {
+    text-align: center;
+  }
+  
+  .center-placeholder:-moz-placeholder { /* Firefox 18- */
+    text-align: center;  
+  }
+  
+  .center-placeholder::-moz-placeholder {  /* Firefox 19+ */
+    text-align: center;  
+  }
+  
+  .center-placeholder:-ms-input-placeholder {  
+    text-align: center; 
+  }
+
+
+  
